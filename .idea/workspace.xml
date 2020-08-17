@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3260a51b-8ee1-43fc-85be-16f9b25b39ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eclYOVZHc9KOZjDdNEwA39e8aX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lan_cul_edu" />
+      <recent name="$PROJECT_DIR$/sencond_lan" />
+      <recent name="$PROJECT_DIR$/guoyuke_edu" />
+      <recent name="$PROJECT_DIR$/nlp" />
+      <recent name="$PROJECT_DIR$/edu_phy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.edu_research">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edu_journal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edu_journal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edu_phy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edu_phy/edu_phy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edu_research" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edu_research.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guoyuke_edu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guoyuke_edu/guoyuke_edu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shientaiwakenkyu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shientaiwakenkyu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="J-stage_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.edu_research" />
+        <item itemvalue="Python.edu_phy" />
+        <item itemvalue="Python.shientaiwakenkyu" />
+        <item itemvalue="Python.edu_journal" />
+        <item itemvalue="Python.guoyuke_edu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3260a51b-8ee1-43fc-85be-16f9b25b39ab" name="Default Changelist" comment="" />
+      <created>1594628808469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594628808469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="-862" key="#Web_Browsers" timestamp="1595516207517">
+      <screen x="-278" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="282" y="-862" key="#Web_Browsers/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595516207517" />
+    <state x="342" y="46" key="CommitChangelistDialog2" timestamp="1597644738332">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="342" y="46" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1597644738332" />
+    <state x="521" y="363" key="Github.CreateGistDialog" timestamp="1597644671780">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="521" y="363" key="Github.CreateGistDialog/0.23.1440.833@0.23.1440.833" timestamp="1597644671780" />
+    <state x="572" y="344" key="Github.ShareDialog" timestamp="1597644162079">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="572" y="344" key="Github.ShareDialog/0.23.1440.833@0.23.1440.833" timestamp="1597644162079" />
+    <state x="503" y="154" key="Github.UntrackedFilesDialog" timestamp="1597643560546">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="503" y="154" key="Github.UntrackedFilesDialog/0.23.1440.833@0.23.1440.833" timestamp="1597643560546" />
+    <state width="1899" height="312" key="GridCell.Tab.0.bottom" timestamp="1597054756221">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="312" key="GridCell.Tab.0.bottom/0.23.1440.833/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1597054756221" />
+    <state width="1419" height="233" key="GridCell.Tab.0.bottom/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596900519749" />
+    <state width="1419" height="173" key="GridCell.Tab.0.bottom/0.23.1440.833/-278.-1057.1920.1057@0.23.1440.833" timestamp="1595817643486" />
+    <state width="1419" height="173" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1595906023683" />
+    <state width="1379" height="269" key="GridCell.Tab.0.bottom/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595518334880" />
+    <state width="1379" height="296" key="GridCell.Tab.0.bottom/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718476" />
+    <state width="1419" height="173" key="GridCell.Tab.0.bottom/0.23.1440.877/-252.-1057.1920.1013@-252.-1057.1920.1013" timestamp="1595942490574" />
+    <state width="1419" height="233" key="GridCell.Tab.0.bottom/0.23.1440.877/-252.-1057.1920.1013@0.23.1440.877" timestamp="1596827090016" />
+    <state width="1379" height="269" key="GridCell.Tab.0.bottom/0.23.1440.877/-278.-1057.1920.1014@-278.-1057.1920.1014" timestamp="1595505545851" />
+    <state width="1899" height="312" key="GridCell.Tab.0.center" timestamp="1597054756221">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="312" key="GridCell.Tab.0.center/0.23.1440.833/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1597054756221" />
+    <state width="1419" height="233" key="GridCell.Tab.0.center/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596900519748" />
+    <state width="1419" height="173" key="GridCell.Tab.0.center/0.23.1440.833/-278.-1057.1920.1057@0.23.1440.833" timestamp="1595817643485" />
+    <state width="1419" height="173" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1595906023682" />
+    <state width="1379" height="269" key="GridCell.Tab.0.center/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595518334880" />
+    <state width="1379" height="296" key="GridCell.Tab.0.center/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718475" />
+    <state width="1419" height="173" key="GridCell.Tab.0.center/0.23.1440.877/-252.-1057.1920.1013@-252.-1057.1920.1013" timestamp="1595942490573" />
+    <state width="1419" height="233" key="GridCell.Tab.0.center/0.23.1440.877/-252.-1057.1920.1013@0.23.1440.877" timestamp="1596827090016" />
+    <state width="1379" height="269" key="GridCell.Tab.0.center/0.23.1440.877/-278.-1057.1920.1014@-278.-1057.1920.1014" timestamp="1595505545851" />
+    <state width="1899" height="312" key="GridCell.Tab.0.left" timestamp="1597054756220">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="312" key="GridCell.Tab.0.left/0.23.1440.833/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1597054756220" />
+    <state width="1419" height="233" key="GridCell.Tab.0.left/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596900519748" />
+    <state width="1419" height="173" key="GridCell.Tab.0.left/0.23.1440.833/-278.-1057.1920.1057@0.23.1440.833" timestamp="1595817643484" />
+    <state width="1419" height="173" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1595906023681" />
+    <state width="1379" height="269" key="GridCell.Tab.0.left/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595518334879" />
+    <state width="1379" height="296" key="GridCell.Tab.0.left/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718474" />
+    <state width="1419" height="173" key="GridCell.Tab.0.left/0.23.1440.877/-252.-1057.1920.1013@-252.-1057.1920.1013" timestamp="1595942490573" />
+    <state width="1419" height="233" key="GridCell.Tab.0.left/0.23.1440.877/-252.-1057.1920.1013@0.23.1440.877" timestamp="1596827090015" />
+    <state width="1379" height="269" key="GridCell.Tab.0.left/0.23.1440.877/-278.-1057.1920.1014@-278.-1057.1920.1014" timestamp="1595505545850" />
+    <state width="1899" height="312" key="GridCell.Tab.0.right" timestamp="1597054756221">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="312" key="GridCell.Tab.0.right/0.23.1440.833/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1597054756221" />
+    <state width="1419" height="233" key="GridCell.Tab.0.right/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596900519748" />
+    <state width="1419" height="173" key="GridCell.Tab.0.right/0.23.1440.833/-278.-1057.1920.1057@0.23.1440.833" timestamp="1595817643485" />
+    <state width="1419" height="173" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1595906023682" />
+    <state width="1379" height="269" key="GridCell.Tab.0.right/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595518334880" />
+    <state width="1379" height="296" key="GridCell.Tab.0.right/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718475" />
+    <state width="1419" height="173" key="GridCell.Tab.0.right/0.23.1440.877/-252.-1057.1920.1013@-252.-1057.1920.1013" timestamp="1595942490574" />
+    <state width="1419" height="233" key="GridCell.Tab.0.right/0.23.1440.877/-252.-1057.1920.1013@0.23.1440.877" timestamp="1596827090016" />
+    <state width="1379" height="269" key="GridCell.Tab.0.right/0.23.1440.877/-278.-1057.1920.1014@-278.-1057.1920.1014" timestamp="1595505545851" />
+    <state width="1379" height="296" key="GridCell.Tab.1.bottom" timestamp="1595587718477">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.1.bottom/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595503670570" />
+    <state width="1379" height="296" key="GridCell.Tab.1.bottom/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718477" />
+    <state width="1379" height="296" key="GridCell.Tab.1.center" timestamp="1595587718476">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.1.center/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595503670570" />
+    <state width="1379" height="296" key="GridCell.Tab.1.center/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718476" />
+    <state width="1379" height="296" key="GridCell.Tab.1.left" timestamp="1595587718476">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.1.left/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595503670569" />
+    <state width="1379" height="296" key="GridCell.Tab.1.left/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718476" />
+    <state width="1379" height="296" key="GridCell.Tab.1.right" timestamp="1595587718477">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.1.right/0.23.1440.834/-278.-1057.1920.1057@-278.-1057.1920.1057" timestamp="1595503670570" />
+    <state width="1379" height="296" key="GridCell.Tab.1.right/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595587718477" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1597644401476">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1597644401476" />
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1594694934592" />
+    <state x="374" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1597643179159">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="247" y="-739" key="com.intellij.ide.util.TipDialog/0.23.1440.833/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1597043412950" />
+    <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596852675567" />
+    <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.833/-278.-1057.1920.1057@0.23.1440.833" timestamp="1595806746965" />
+    <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1597643179159" />
+    <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.834/-278.-1057.1920.1057@0.23.1440.834" timestamp="1595588041854" />
+    <state x="497" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596556021168">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="497" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.833/-252.-1057.1920.1057@0.23.1440.833" timestamp="1596556021168" />
+    <state x="385" y="180" width="670" height="676" key="search.everywhere.popup" timestamp="1597644278800">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="385" y="180" width="670" height="676" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1597644278800" />
+  </component>
+</project>
