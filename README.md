@@ -16,4 +16,4 @@
 下载的论文以PDF格式保存，默认为卷号+页码，也可自己修改。
 
 ## 使用许可
-[MIT](LICENSE) © Richard Littauer
+[MIT](https://choosealicense.com/licenses/mit/) © liuminxuan
